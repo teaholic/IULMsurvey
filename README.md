@@ -1,6 +1,6 @@
 # ELF in ESP Corpus
 
-## Exploratory Data Analysis
+## End-of-course Survey: Exploratory Data Analysis (EDA)
 
 Welcome!
 
